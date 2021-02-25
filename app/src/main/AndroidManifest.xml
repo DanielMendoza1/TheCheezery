@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TheCheezery">
-        <activity android:name=".MenuActivity"></activity>
+        <activity android:name=".SaltiesProducts"></activity>
+        <activity android:name=".SweetsProducts" />
+        <activity android:name=".HotProducts" />
+        <activity android:name=".ColdProducts" />
+        <activity android:name=".ColdProductosActivity" />
+        <activity android:name=".MenuActivity" />
         <activity android:name=".Register_activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
